@@ -7265,11 +7265,6 @@ typeface-leckerli-one@^0.0.72:
   resolved "https://registry.yarnpkg.com/typeface-leckerli-one/-/typeface-leckerli-one-0.0.72.tgz#1b441716421111ec27e8514b675be36089ecab25"
   integrity sha512-P24YaRErVGwKHN2jvTyej/n4cvgt6Lm/5ZyhGqabXHzDUq4T06z7EMDgtgnLTRYABzi+QjSKF9tYF/mbFn6JSw==
 
-typefaces@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/typefaces/-/typefaces-0.0.1.tgz#7754a10fea553ca8ceb9611d3939845edf3a7028"
-  integrity sha1-d1ShD+pVPKjOuWEdOTmEXt86cCg=
-
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/unicode-canonical-property-names-ecmascript/-/unicode-canonical-property-names-ecmascript-1.0.4.tgz#2619800c4c825800efdd8343af7dd9933cbe2818"
