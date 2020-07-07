@@ -5,7 +5,7 @@ module.exports = {
       fontFamily: {
         logo: ['Leckerli One', 'sans-serif'],
         body: ['Inter', 'sans-serif']
-      }
+      },
     },
   },
   variants: {},
