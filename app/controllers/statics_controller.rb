@@ -1,4 +1,4 @@
 class StaticsController < ApplicationController
-  def project
+  def home
   end
 end
