@@ -8,7 +8,7 @@ require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
 
-require("typeface-leckerli-one")
+require("typeface-anton")
 require("typeface-inter")
 import '../stylesheets/tailwind.css'
 

@@ -10,8 +10,8 @@
     "cssnano": "^4.1.10",
     "tailwindcss": "^1.4.6",
     "turbolinks": "^5.2.0",
+    "typeface-anton": "^0.0.72",
     "typeface-inter": "^3.12.0",
-    "typeface-leckerli-one": "^0.0.72",
     "vue": "^2.6.11",
     "vue-loader": "^15.9.3",
     "vue-template-compiler": "^2.6.11"

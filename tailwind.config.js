@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        logo: ['Leckerli One', 'sans-serif'],
+        logo: ['Anton', 'sans-serif'],
         body: ['Inter', 'sans-serif']
       },
     },
