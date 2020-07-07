@@ -3,6 +3,9 @@ module.exports = {
     require('tailwindcss'),
     require('autoprefixer'),
     require('postcss-import'),
+    require('cssnano')({
+      preset: 'default',
+    }),
     require('postcss-flexbugs-fixes'),
     require('postcss-preset-env')({
       autoprefixer: {
